@@ -28,4 +28,16 @@
 
 ## More HTML
 
-* Something
+* HTML containers
+* Forms
+* Common form widgets
+* Additional form widgets
+* Audio and video
+* `<script> and <style>`
+* HTML developer guidelines
+* Example: Restaurant Reviews
+* LAB: HTML practice
+* LAB: Fan web page (HTML)
+* LAB: Form for joining a social network (HTML)
+* LAB: Happy birthday message creator (HTML)
+* LAB: Starting lineup (HTML)
