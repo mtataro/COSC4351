@@ -41,3 +41,19 @@
 * LAB: Form for joining a social network (HTML)
 * LAB: Happy birthday message creator (HTML)
 * LAB: Starting lineup (HTML)
+
+## Basic CSS
+
+* Using CSS in HTML
+* Basic selectors
+* Advanced selectors
+* Common properties
+* Font and text properties
+* Box model
+* Example: Styled band web page
+* LAB: News article (CSS)
+* LAB: Auto loan (CSS)
+* LAB: Sleep recommendation list (CSS)
+* LAB: Best-selling video games table (CSS)
+* LAB: Style the form with advanced selectors
+  
