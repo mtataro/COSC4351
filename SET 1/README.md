@@ -56,4 +56,18 @@
 * LAB: Sleep recommendation list (CSS)
 * LAB: Best-selling video games table (CSS)
 * LAB: Style the form with advanced selectors
-  
+
+## Advanced CSS
+
+* Positioning elements
+* Special effects
+* Animation
+* Flexbo
+* Grid layout
+* Styling forms
+* Sass
+* Example: Styled Restaurant Reviews
+* LAB: CSS practice
+* LAB: Tic-tac-toe game with grid layout
+* LAB: Position the playing cards
+* LAB: Animating the answer
